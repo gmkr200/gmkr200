@@ -24,7 +24,7 @@ Currently working as a **Full-Stack Developer** at **Tetra Computing LLC**, wher
 
  📫 How to Reach Me
 - **GitHub:** [@gmkr200](https://github.com/gmkr200)  
-- **LinkedIn:** [Manikumar Reddy Gajjela](https://www.linkedin.com/in/yourusername)  
+- **LinkedIn:** [Manikumar Reddy Gajjela](https://www.linkedin.com/in/manireddy12/)  
 - **Email:** gmkr300@gmail.com  
 
  ⚡ Fun Facts
