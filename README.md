@@ -4,7 +4,7 @@
 I'm a passionate **full-stack developer** based in **New York, NY** with over **4 years of experience** in building robust and scalable web applications. I specialize in creating dynamic solutions using **modern technologies** and thrive on continuous learning and problem-solving.
 
  🎓 Education
-- **Master's in Computer Science** – *Pace University, New York* (2023 - Present)  
+- **Master's in Computer Science** – *Pace University, New York* (2023 - 2024)  
   *Specializing in Full-Stack Development and Cloud Computing.*
 - **Bachelor's in Computer Science** – *Osmania University, India* (2015 - 2019)  
   *Focused on Software Engineering, Data Structures, and Algorithms.*
